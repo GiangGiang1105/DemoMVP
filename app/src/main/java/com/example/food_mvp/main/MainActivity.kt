@@ -45,3 +45,4 @@ class MainActivity : AppCompatActivity(), OnItemRecyclerViewClickListener<Food>,
         Toast.makeText(this, exception?.message, Toast.LENGTH_SHORT).show()
     }
 }
+
